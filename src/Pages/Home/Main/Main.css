@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+body{
+    background-color: white !important; 
+}
+.wallpaper{
+    opacity: .4;
+    width: 75%;
+    height: 100vh;
+    overflow: hidden;
+}
+.title-login{
+    position: relative;
+    top: 10vh;
+    color: white;
+    font-weight: 400;
+}
+.form-login{
+    position: relative;
+    top: 15vh;
+    width: 70%;
+    height: 500px;
+    border: 1px solid wheat;
+}
